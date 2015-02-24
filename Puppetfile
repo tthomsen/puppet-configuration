@@ -11,7 +11,7 @@ mod "saz/sudo"
 mod "puppetlabs/ntp"
 mod "puppetlabs/vcsrepo"
 
-mod "resolver"
+mod "resolver",
  :git => "git@github.com:tthomsen/puppet-resolver.git"
-mod "privileges"
+mod "privileges",
   :git => "git@github.com:tthomsen/puppet-privileges.git"
