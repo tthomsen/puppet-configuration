@@ -15,4 +15,3 @@ mod "resolver"
  :git => "git@github.com:tthomsen/puppet-resolver.git"
 mod "privileges"
   :git => "git@github.com:tthomsen/puppet-privileges.git"
-mod
