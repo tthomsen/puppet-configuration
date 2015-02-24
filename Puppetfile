@@ -12,7 +12,7 @@ mod "puppetlabs/ntp"
 mod "puppetlabs/vcsrepo"
 
 mod "resolver"
- :gi => "git@github.com:tthomsen/puppet-resolver.git"
+ :git => "git@github.com:tthomsen/puppet-resolver.git"
 mod "privileges"
   :git => "git@github.com:tthomsen/puppet-privileges.git"
 mod
