@@ -10,6 +10,7 @@ mod "saz/ssh"
 mod "saz/sudo"
 mod "puppetlabs/ntp"
 mod "puppetlabs/vcsrepo"
+mod "puppetlabs/mysql"
 
 mod "resolver",
  :git => "git@github.com:tthomsen/puppet-resolver.git"
